@@ -1,5 +1,7 @@
 # 🎮 Scrambled Word Game
 
+![Scrambled Word Game](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRoTp2CtKDHf0H9hiK5QSRUJuUkYoc_4e8i8CnYG4fjcWJuFJ_-7f-v7o&s=10)
+
 A simple Python word-guessing game where the player is given a scrambled word and has to guess the original word.
 
 The game keeps track of the player's score and allows multiple attempts for each word.
